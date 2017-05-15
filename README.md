@@ -1,5 +1,7 @@
 # ThemeStatus
 
+Name | Pull Requests | Issues
+-----|---------------|-------
 [SUThemeALPS](https://github.com/SimpleUpdates/SUThemeALPS) | [Pull Requests](https://github.com/SimpleUpdates/SUThemeALPS/pulls) | [Issues](https://github.com/SimpleUpdates/SUThemeALPS/issues)
 [SUThemeBanyan](https://github.com/SimpleUpdates/SUThemeBanyan) | [Pull Requests](https://github.com/SimpleUpdates/SUThemeBanyan/pulls) | [Issues](https://github.com/SimpleUpdates/SUThemeBanyan/issues)
 [SUThemeGumwood](https://github.com/SimpleUpdates/SUThemeGumwood) | [Pull Requests](https://github.com/SimpleUpdates/SUThemeGumwood/pulls) | [Issues](https://github.com/SimpleUpdates/SUThemeGumwood/issues)
