@@ -14,7 +14,7 @@ All themes              | [Pull Requests][all-pr] | [Issues][all-iss] |         
 [SUThemeSpruce][spr]    | [Pull Requests][spr-pr] | [Issues][spr-iss] | [2016][spr-dev] | [production][spr-prod] 
 [SUThemeWillow][wil]    | [Pull Requests][wil-pr] | [Issues][wil-iss] | [2016][wil-dev] | [production][wil-prod] 
 
-[all-pr]: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+repo%3ASimpleUpdates%2FSUThemeALPS+repo%3ASimpleUpdates%2FSUThemeBanyan+repo%3ASimpleUpdates%2FSUThemeGumwood+repo%3ASimpleUpdates%2FSUThemeIris+repo%3ASimpleUpdates%2FSUThemeObsidian+repo%3ASimpleUpdates%2FSUThemeOrganic+repo%3ASimpleUpdates%2FSUThemePrairie+repo%3ASimpleUpdates%2FSUThemePrototype+repo%3ASimpleUpdates%2FSUThemeSpruce+repo%3ASimpleUpdates%2FSUThemeWillow
+[all-pr]: https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+repo%3ASimpleUpdates%2FSUThemeALPS+repo%3ASimpleUpdates%2FSUThemeBanyan+repo%3ASimpleUpdates%2FSUThemeGumwood+repo%3ASimpleUpdates%2FSUThemeIris+repo%3ASimpleUpdates%2FSUThemeObsidian+repo%3ASimpleUpdates%2FSUThemeOrganic+repo%3ASimpleUpdates%2FSUThemePrairie+repo%3ASimpleUpdates%2FSUThemePrototype+repo%3ASimpleUpdates%2FSUThemeSpruce+repo%3ASimpleUpdates%2FSUThemeWillow
 [all-iss]: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+repo%3ASimpleUpdates%2FSUThemeALPS+repo%3ASimpleUpdates%2FSUThemeBanyan+repo%3ASimpleUpdates%2FSUThemeGumwood+repo%3ASimpleUpdates%2FSUThemeIris+repo%3ASimpleUpdates%2FSUThemeObsidian+repo%3ASimpleUpdates%2FSUThemeOrganic+repo%3ASimpleUpdates%2FSUThemePrairie+repo%3ASimpleUpdates%2FSUThemePrototype+repo%3ASimpleUpdates%2FSUThemeSpruce+repo%3ASimpleUpdates%2FSUThemeWillow
 
 [alp]: https://github.com/SimpleUpdates/SUThemeALPS
