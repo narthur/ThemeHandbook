@@ -18,7 +18,6 @@ All themes              | [Pull Requests][all-pr] | [Issues][all-iss] |         
 
 ## Index
 
-* [guidelines.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/guidelines.md)
 * [naming_things.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/naming_things.md)
 * [components.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/components.md)
 
