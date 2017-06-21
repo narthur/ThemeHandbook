@@ -47,14 +47,22 @@ of `.layer-componentName` in order to mirror the component's file names.
 
 Components are grouped into three distinct layers:
 
-- Atoms: "The foundational building blocks that comprise all our user interfaces. These atoms include basic HTML elements like 
+- **Atoms:** "The foundational building blocks that comprise all our user interfaces. These atoms include basic HTML elements like 
 form labels, inputs, buttons, and others that can’t be broken down any further without ceasing to be functional."
-- Molecules: "Relatively simple groups of UI elements functioning together as a unit. For example, a form label, search input, 
+- **Molecules:** "Relatively simple groups of UI elements functioning together as a unit. For example, a form label, search input, 
 and button can join together to create a search form molecule."
-- Organisms "Relatively complex UI components composed of groups of molecules and/or atoms and/or other organisms. These 
+- **Organisms:** "Relatively complex UI components composed of groups of molecules and/or atoms and/or other organisms. These 
 organisms form distinct sections of an interface."
 
 (Definitions taken from *Atomic Design*, by Brad Frost, [chapter 2](http://atomicdesign.bradfrost.com/chapter-2/).)
+
+A component's name takes the form of its layer, followed by a hyphin, followed by its specific name in camel case:
+
+| Yes                 | No
+|---------------------|-----------------
+| `atom-button`       | `atom-Button`
+| `molecule-branding` | `branding`
+| `organism-navBar`   | `org-nav-bar`
 
 A component's name is used in three primary places: its Twig partial filename, its Less file filename, and its primary CSS
 class. All three should be identical.
