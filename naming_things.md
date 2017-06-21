@@ -1,5 +1,9 @@
 # Naming Things
 
+"There are only two hard things in Computer Science: cache invalidation and naming things" (Phil Karlton, [via Martin Fowler](https://www.martinfowler.com/bliki/TwoHardThings.html)).
+
+Good names are important, because code is only easy to change when it's easy to read and understand.
+
 ## Naming Less Variables
 
 Less variable names should be camel cased.
