@@ -19,9 +19,12 @@ Breaking themes into components several benefits:
 
 - It becomes clear where to look to find all the Less or Twig source related to any given component.
 - Components become more portable, as using a component architecture forces a clear separation between the source code of one
-component and another.
+component and another, and allowing any given component to be used in many contexts.
 - This clear separation between components makes modifying a single component easier, as it allows for the assumption that the
 source of one component will not affect any other component outside its context.
+- Breaking a theme into components keeps its layout files and `global.less` file short, making them easier to understand and
+modify.
+- Because they are context agnostic, components can be displayed in a styleguide for easier and more-flexible testing.
 
 ## File Structure
 
@@ -75,3 +78,5 @@ within the component's primary class scope, and only using those redeclared vari
 made more portable and easier to customize. (For more information on naming these redelcared variables, see 
 [naming_things.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/naming_things.md).) One exception to this rule is
 global breakpoint variables (e.g. `@screenSmMax`), which should be referenced without being redeclared. 
+- **A component's Twig source doesn't make sense alone.** If you see an orphaned `</div>` at the beginning of a component's Twig file, or an unclosed element at its end, that's a strong indication that the component hasn't been properly decoupled
+from other components or templates, and needs to be refactored so it can stand alone.
