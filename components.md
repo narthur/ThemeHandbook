@@ -25,7 +25,7 @@ source of one component will not affect any other component outside its context.
 - Breaking a theme into components keeps its layout files and `global.less` file short, making them easier to understand and
 modify.
 - Because they are context agnostic, components can be displayed in a styleguide for easier and more-flexible testing.
-- Components help with keeping things DRY (Don't Repeat Yourself) by eliminating code duplication, thereby increasing theme
+- Components help with keeping things DRY ([Don't Repeat Yourself](http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Repeat_Yourself)) by eliminating code duplication, thereby increasing theme
 maintainability.
 
 ## File Structure
