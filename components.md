@@ -15,7 +15,7 @@ organisms form distinct sections of an interface."
 
 ## Benefits
 
-Breaking themes into components several benefits:
+Breaking themes into components has several benefits:
 
 - It becomes clear where to look to find all the Less or Twig source related to any given component.
 - Components become more portable, as using a component architecture forces a clear separation between the source code of one
