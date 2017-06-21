@@ -66,7 +66,7 @@ extension when importing the file in `global.less`.
 
 ## Smells
 
-"A code smell is a surface indication that usually corresponds to a deeper problem in the system" ([Martin Fowler](https://www.martinfowler.com/bliki/CodeSmell.html)).
+> "A code smell is a surface indication that usually corresponds to a deeper problem in the system" ([Martin Fowler](https://www.martinfowler.com/bliki/CodeSmell.html)).
 
 If you notice any of the following in a theme, it's likely that the theme hasn't been broken into components properly.
 
