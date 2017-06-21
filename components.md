@@ -82,3 +82,5 @@ made more portable and easier to customize. (For more information on naming thes
 global breakpoint variables (e.g. `@screenSmMax`), which should be referenced without being redeclared. 
 - **A component's Twig source doesn't make sense alone.** If you see an orphaned `</div>` at the beginning of a component's Twig file, or an unclosed element at its end, that's a strong indication that the component hasn't been properly decoupled
 from other components or templates, and needs to be refactored so it can stand alone.
+- **Component-specific media queries appear in `global.less`.** Any media queries that relate to a given component regardless of its context should be kept in that component's Less file.
+- **Print-specific CSS rules appear inside a component's Less file.** The one exception to the previous smell is print media queries, which should only appear in `global.less`; or, preferrably, a separate `print.less` file.
