@@ -75,11 +75,7 @@ that relates to its use in an ancestor component, that CSS should be moved into 
 possible, it's useful to apply the component's primary class name (in the form of `.layer-componentIdentifier`) to its 
 outermost element, and to wrap everything in its Less file, including variable declarations, with the same class. This practice
 increases the confidence we can have that a given component's CSS will only ever affect its intended component.
-- **A component's CSS references variables not declared in the same file.** Generally, by redeclaring any global variables
-within the component's primary class scope, and only using those redeclared variables in the component's CSS, the component is
-made more portable and easier to customize. (For more information on naming these redelcared variables, see 
-[naming_things.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/naming_things.md).) One exception to this rule is
-global breakpoint variables (e.g. `@screenSmMax`), which should be referenced without being redeclared. 
+- **A component's CSS references variables not declared in the same file.** Generally, by redeclaring any needed global variables within the component's primary class scope, and only using those redeclared variables in the component's CSS, the component is made more portable and easier to customize. (For more information on naming these redelcared variables, see [naming_things.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/naming_things.md).) One exception to this rule is global breakpoint variables (e.g. `@screenSmMax`), which should be referenced without being redeclared. 
 - **A component's Twig source doesn't make sense alone.** If you see an orphaned `</div>` at the beginning of a component's Twig file, or an unclosed element at its end, that's a strong indication that the component hasn't been properly decoupled
 from other components or templates, and needs to be refactored so it can stand alone.
 - **Component-specific media queries appear in `global.less`.** Any media queries that relate to a given component regardless of its context should be kept in that component's Less file.
