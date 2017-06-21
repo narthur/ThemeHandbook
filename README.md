@@ -18,8 +18,8 @@ All themes              | [Pull Requests][all-pr] | [Issues][all-iss] |         
 
 ## Index
 
-* [naming_things.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/naming_things.md)
 * [components.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/components.md)
+* [naming_things.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/naming_things.md)
 
 [all-pr]: https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+repo%3ASimpleUpdates%2FSUThemeALPS+repo%3ASimpleUpdates%2FSUThemeBanyan+repo%3ASimpleUpdates%2FSUThemeGumwood+repo%3ASimpleUpdates%2FSUThemeIris+repo%3ASimpleUpdates%2FSUThemeObsidian+repo%3ASimpleUpdates%2FSUThemeOrganic+repo%3ASimpleUpdates%2FSUThemePrairie+repo%3ASimpleUpdates%2FSUThemePrototype+repo%3ASimpleUpdates%2FSUThemeSpruce+repo%3ASimpleUpdates%2FSUThemeWillow
 [all-iss]: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+repo%3ASimpleUpdates%2FSUThemeALPS+repo%3ASimpleUpdates%2FSUThemeBanyan+repo%3ASimpleUpdates%2FSUThemeGumwood+repo%3ASimpleUpdates%2FSUThemeIris+repo%3ASimpleUpdates%2FSUThemeObsidian+repo%3ASimpleUpdates%2FSUThemeOrganic+repo%3ASimpleUpdates%2FSUThemePrairie+repo%3ASimpleUpdates%2FSUThemePrototype+repo%3ASimpleUpdates%2FSUThemeSpruce+repo%3ASimpleUpdates%2FSUThemeWillow
