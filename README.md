@@ -32,6 +32,7 @@ All themes              | [Pull Requests][all-pr] | [Issues][all-iss] |         
 - [Can I use](http://caniuse.com/)
 - [CoffeeScript documentation](http://coffeescript.org/)
 - [CSS-Tricks CSS Almanac](https://css-tricks.com/almanac/)
+- [Diffchecker](https://www.diffchecker.com/)
 - [Emmet Re:view](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
 - [JSONLint](https://jsonlint.com/)
 - [Less documentation](http://lesscss.org/)
