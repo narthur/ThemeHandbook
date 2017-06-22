@@ -25,12 +25,12 @@ Item                      | Description
 `su.page.featuredImage`   | `.fit(x,y)`, `.fill(x,y)`
 `su.page.navigationLabel` |
 `su.page.parent`          | Parent of current page
-`su.page.publishedAt`     | To format in Twig: `{{ su.page.publishedAt|date( "F j, Y" ) }}`
+`su.page.publishedAt`     | To format in Twig: `{{ su.page.publishedAt\|date( "F j, Y" ) }}`
 `su.page.target`          |
 `su.page.thumbnail`       |
 `su.page.title`           | Does not allow inline editing
 `su.page.topParent`       | Top parent of current page
-`su.page.updatedAt`       | To format in Twig: `{{ su.page.updatedAt|date( "F j, Y" ) }}`
+`su.page.updatedAt`       | To format in Twig: `{{ su.page.updatedAt\|date( "F j, Y" ) }}`
 `su.page.url`             |
 
 ## `su.request`
