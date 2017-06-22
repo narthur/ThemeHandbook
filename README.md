@@ -30,8 +30,10 @@ All themes              | [Pull Requests][all-pr] | [Issues][all-iss] |         
 - [JSONLint](https://jsonlint.com/)
 - [Less documentation](http://lesscss.org/)
 - [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
+- [Nielsen Norman Group](https://www.nngroup.com/)
 - [StackOverflow](https://stackoverflow.com/)
 - [Twig documentation](https://twig.sensiolabs.org/doc/2.x/)
+- [UXmatters](http://www.uxmatters.com/)
 
 
 
