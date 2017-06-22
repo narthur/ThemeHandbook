@@ -31,7 +31,7 @@ All themes              | [Pull Requests][all-pr] | [Issues][all-iss] |         
 - [Emmet Re:view](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
 - [JSONLint](https://jsonlint.com/)
 - [Less documentation](http://lesscss.org/)
-- [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
+- [*The Little Book on CoffeeScript*](http://arcturo.github.io/library/coffeescript/)
 - [Nielsen Norman Group](https://www.nngroup.com/)
 - [Sidebar](https://sidebar.io/)
 - [StackOverflow](https://stackoverflow.com/)
