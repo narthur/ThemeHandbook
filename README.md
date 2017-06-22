@@ -22,6 +22,10 @@ All themes              | [Pull Requests][all-pr] | [Issues][all-iss] |         
 - [naming_things.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/naming_things.md)
 - [theme_api.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/theme_api.md)
 
+## Demo Sites
+
+- [http://www.walktopeace.com/](http://www.walktopeace.com/) (version 2)
+
 ## External Resources
 
 - [*Atomic Design* by Brad Frost](http://atomicdesign.bradfrost.com/)
