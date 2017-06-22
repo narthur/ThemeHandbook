@@ -18,17 +18,20 @@ All themes              | [Pull Requests][all-pr] | [Issues][all-iss] |         
 
 ## Index
 
-* [components.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/components.md)
-* [naming_things.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/naming_things.md)
-* [theme_api.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/theme_api.md)
+- [components.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/components.md)
+- [naming_things.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/naming_things.md)
+- [theme_api.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/theme_api.md)
 
 ## External Resources
 
-* [CSS-Tricks CSS Almanac](https://css-tricks.com/almanac/)
-* [JSONLint](https://jsonlint.com/)
-* [Less documentation](http://lesscss.org/)
-* [StackOverflow](https://stackoverflow.com/)
-* [Twig documentation](https://twig.sensiolabs.org/doc/2.x/)
+- [*Atomic Design* by Brad Frost](http://atomicdesign.bradfrost.com/)
+- [CoffeeScript documentation](http://coffeescript.org/)
+- [CSS-Tricks CSS Almanac](https://css-tricks.com/almanac/)
+- [JSONLint](https://jsonlint.com/)
+- [Less documentation](http://lesscss.org/)
+- [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
+- [StackOverflow](https://stackoverflow.com/)
+- [Twig documentation](https://twig.sensiolabs.org/doc/2.x/)
 
 
 
