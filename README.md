@@ -25,8 +25,10 @@ All themes              | [Pull Requests][all-pr] | [Issues][all-iss] |         
 ## External Resources
 
 - [*Atomic Design* by Brad Frost](http://atomicdesign.bradfrost.com/)
+- [Can I use](http://caniuse.com/)
 - [CoffeeScript documentation](http://coffeescript.org/)
 - [CSS-Tricks CSS Almanac](https://css-tricks.com/almanac/)
+- [Emmet Re:view](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
 - [JSONLint](https://jsonlint.com/)
 - [Less documentation](http://lesscss.org/)
 - [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
