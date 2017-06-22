@@ -1,5 +1,11 @@
 # ThemeHandbook
 
+## Index
+
+- [components.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/components.md)
+- [naming_things.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/naming_things.md)
+- [theme_api.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/theme_api.md)
+
 ## Themes
 
 Name                    | Pull Requests           | Issues            | 2016            | production
@@ -15,12 +21,6 @@ All themes              | [Pull Requests][all-pr] | [Issues][all-iss] |         
 [SUThemePrototype][pro] | [Pull Requests][pro-pr] | [Issues][pro-iss] | [2016][pro-dev] | [production][pro-prod] 
 [SUThemeSpruce][spr]    | [Pull Requests][spr-pr] | [Issues][spr-iss] | [2016][spr-dev] | [production][spr-prod] 
 [SUThemeWillow][wil]    | [Pull Requests][wil-pr] | [Issues][wil-iss] | [2016][wil-dev] | [production][wil-prod] 
-
-## Index
-
-- [components.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/components.md)
-- [naming_things.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/naming_things.md)
-- [theme_api.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/theme_api.md)
 
 ## Demo Sites
 
