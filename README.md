@@ -3,6 +3,7 @@
 ## Index
 
 - [components.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/components.md)
+- [deploy_workflow.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/deploy_workflow.md)
 - [naming_things.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/naming_things.md)
 - [theme_api.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/theme_api.md)
 
