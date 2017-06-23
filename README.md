@@ -30,6 +30,7 @@ All themes              | [Pull Requests][all-pr] | [Issues][all-iss] |         
 
 - [*Atomic Design* by Brad Frost](http://atomicdesign.bradfrost.com/)
 - [Can I use](http://caniuse.com/)
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md)
 - [CoffeeScript documentation](http://coffeescript.org/)
 - [CSS-Tricks CSS Almanac](https://css-tricks.com/almanac/)
 - [Diffchecker](https://www.diffchecker.com/)
