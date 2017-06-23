@@ -8,19 +8,19 @@
 
 ## Themes
 
-Name                    | Pull Requests           | Issues            | 2016            | production
-------------------------|-------------------------|-------------------|-----------------|-----------------------
-All themes              | [Pull Requests][all-pr] | [Issues][all-iss] |                 |
-[SUThemeALPS][alp]      | [Pull Requests][alp-pr] | [Issues][alp-iss] | [2016][alp-dev] | [production][alp-prod] 
-[SUThemeBanyan][ban]    | [Pull Requests][ban-pr] | [Issues][ban-iss] | [2016][ban-dev] | [production][ban-prod] 
-[SUThemeGumwood][gum]   | [Pull Requests][gum-pr] | [Issues][gum-iss] | [2016][gum-dev] | [production][gum-prod] 
-[SUThemeIris][iri]      | [Pull Requests][iri-pr] | [Issues][iri-iss] | [2016][iri-dev] | [production][iri-prod] 
-[SUThemeObsidian][obs]  | [Pull Requests][obs-pr] | [Issues][obs-iss] | [2016][obs-dev] | [production][obs-prod] 
-[SUThemeOrganic][org]   | [Pull Requests][org-pr] | [Issues][org-iss] | [2016][org-dev] | [production][org-prod] 
-[SUThemePrairie][pra]   | [Pull Requests][pra-pr] | [Issues][pra-iss] | [2016][pra-dev] | [production][pra-prod] 
-[SUThemePrototype][pro] | [Pull Requests][pro-pr] | [Issues][pro-iss] | [2016][pro-dev] | [production][pro-prod] 
-[SUThemeSpruce][spr]    | [Pull Requests][spr-pr] | [Issues][spr-iss] | [2016][spr-dev] | [production][spr-prod] 
-[SUThemeWillow][wil]    | [Pull Requests][wil-pr] | [Issues][wil-iss] | [2016][wil-dev] | [production][wil-prod] 
+Name             | Pull Requests           | Issues            | Branches           | 2016            | production
+-----------------|-------------------------|-------------------|--------------------|-----------------|-----------------------
+All themes       | [Pull Requests][all-pr] | [Issues][all-iss] |                    |                 |
+[ALPS][alp]      | [Pull Requests][alp-pr] | [Issues][alp-iss] | [Branches][alp-br] | [2016][alp-dev] | [production][alp-prod] 
+[Banyan][ban]    | [Pull Requests][ban-pr] | [Issues][ban-iss] | [Branches][ban-br] | [2016][ban-dev] | [production][ban-prod] 
+[Gumwood][gum]   | [Pull Requests][gum-pr] | [Issues][gum-iss] | [Branches][gum-br] | [2016][gum-dev] | [production][gum-prod] 
+[Iris][iri]      | [Pull Requests][iri-pr] | [Issues][iri-iss] | [Branches][iri-br] | [2016][iri-dev] | [production][iri-prod] 
+[Obsidian][obs]  | [Pull Requests][obs-pr] | [Issues][obs-iss] | [Branches][obs-br] | [2016][obs-dev] | [production][obs-prod] 
+[Organic][org]   | [Pull Requests][org-pr] | [Issues][org-iss] | [Branches][org-br] | [2016][org-dev] | [production][org-prod] 
+[Prairie][pra]   | [Pull Requests][pra-pr] | [Issues][pra-iss] | [Branches][pra-br] | [2016][pra-dev] | [production][pra-prod] 
+[Prototype][pro] | [Pull Requests][pro-pr] | [Issues][pro-iss] | [Branches][pro-br] | [2016][pro-dev] | [production][pro-prod] 
+[Spruce][spr]    | [Pull Requests][spr-pr] | [Issues][spr-iss] | [Branches][spr-br] | [2016][spr-dev] | [production][spr-prod] 
+[Willow][wil]    | [Pull Requests][wil-pr] | [Issues][wil-iss] | [Branches][wil-br] | [2016][wil-dev] | [production][wil-prod] 
 
 ## Demo Sites
 
@@ -82,6 +82,17 @@ All themes              | [Pull Requests][all-pr] | [Issues][all-iss] |         
 [pro-iss]: https://github.com/SimpleUpdates/SUThemePrototype/issues
 [spr-iss]: https://github.com/SimpleUpdates/SUThemeSpruce/issues
 [wil-iss]: https://github.com/SimpleUpdates/SUThemeWillow/issues
+
+[alp-br]: https://github.com/SimpleUpdates/SUThemeALPS/branches
+[ban-br]: https://github.com/SimpleUpdates/SUThemeBanyan/branches
+[gum-br]: https://github.com/SimpleUpdates/SUThemeGumwood/branches
+[iri-br]: https://github.com/SimpleUpdates/SUThemeIris/branches
+[obs-br]: https://github.com/SimpleUpdates/SUThemeObsidian/branches
+[org-br]: https://github.com/SimpleUpdates/SUThemeOrganic/branches
+[pra-br]: https://github.com/SimpleUpdates/SUThemePrairie/branches
+[pro-br]: https://github.com/SimpleUpdates/SUThemePrototype/branches
+[spr-br]: https://github.com/SimpleUpdates/SUThemeSpruce/branches
+[wil-br]: https://github.com/SimpleUpdates/SUThemeWillow/branches
 
 [alp-dev]: https://github.com/SimpleUpdates/SUThemeALPS/commits/2016
 [ban-dev]: https://github.com/SimpleUpdates/SUThemeBanyan/commits/2016
