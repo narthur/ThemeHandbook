@@ -9,18 +9,18 @@
 ## Themes
 
 Name             | Pull Requests           | Issues            | Branches           | production...2016
------------------|-------------------------|-------------------|--------------------|------------------
+-----------------|-------------------------|-------------------|--------------------|--------------------
 All themes       | [Pull Requests][all-pr] | [Issues][all-iss] |                    |
-[ALPS][alp]      | [Pull Requests][alp-pr] | [Issues][alp-iss] | [Branches][alp-br] | [Compare][alp-dev]
-[Banyan][ban]    | [Pull Requests][ban-pr] | [Issues][ban-iss] | [Branches][ban-br] | [Compare][ban-dev]
-[Gumwood][gum]   | [Pull Requests][gum-pr] | [Issues][gum-iss] | [Branches][gum-br] | [Compare][gum-dev]
-[Iris][iri]      | [Pull Requests][iri-pr] | [Issues][iri-iss] | [Branches][iri-br] | [Compare][iri-dev]
-[Obsidian][obs]  | [Pull Requests][obs-pr] | [Issues][obs-iss] | [Branches][obs-br] | [Compare][obs-dev]
-[Organic][org]   | [Pull Requests][org-pr] | [Issues][org-iss] | [Branches][org-br] | [Compare][org-dev]
-[Prairie][pra]   | [Pull Requests][pra-pr] | [Issues][pra-iss] | [Branches][pra-br] | [Compare][pra-dev]
-[Prototype][pro] | [Pull Requests][pro-pr] | [Issues][pro-iss] | [Branches][pro-br] | [Compare][pro-dev]
-[Spruce][spr]    | [Pull Requests][spr-pr] | [Issues][spr-iss] | [Branches][spr-br] | [Compare][spr-dev]
-[Willow][wil]    | [Pull Requests][wil-pr] | [Issues][wil-iss] | [Branches][wil-br] | [Compare][wil-dev]
+[ALPS][alp]      | [Pull Requests][alp-pr] | [Issues][alp-iss] | [Branches][alp-br] | [Compare][alp-comp]
+[Banyan][ban]    | [Pull Requests][ban-pr] | [Issues][ban-iss] | [Branches][ban-br] | [Compare][ban-comp]
+[Gumwood][gum]   | [Pull Requests][gum-pr] | [Issues][gum-iss] | [Branches][gum-br] | [Compare][gum-comp]
+[Iris][iri]      | [Pull Requests][iri-pr] | [Issues][iri-iss] | [Branches][iri-br] | [Compare][iri-comp]
+[Obsidian][obs]  | [Pull Requests][obs-pr] | [Issues][obs-iss] | [Branches][obs-br] | [Compare][obs-comp]
+[Organic][org]   | [Pull Requests][org-pr] | [Issues][org-iss] | [Branches][org-br] | [Compare][org-comp]
+[Prairie][pra]   | [Pull Requests][pra-pr] | [Issues][pra-iss] | [Branches][pra-br] | [Compare][pra-comp]
+[Prototype][pro] | [Pull Requests][pro-pr] | [Issues][pro-iss] | [Branches][pro-br] | [Compare][pro-comp]
+[Spruce][spr]    | [Pull Requests][spr-pr] | [Issues][spr-iss] | [Branches][spr-br] | [Compare][spr-comp]
+[Willow][wil]    | [Pull Requests][wil-pr] | [Issues][wil-iss] | [Branches][wil-br] | [Compare][wil-comp]
 
 ## Demo Sites
 
