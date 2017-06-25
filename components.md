@@ -70,13 +70,8 @@ extension when importing the file in `global.less`.
 
 If you notice any of the following in a theme, it's likely that the theme hasn't been broken into components properly.
 
-- **A component's Less file contains CSS that's only relevant in a specific context.** A component's Less file should only
-contain CSS that would be relevant to it no matter where in a theme it's used. Whenever you see CSS in a component's Less file
-that relates to its use in an ancestor component, that CSS should be moved into its ancestor's Less file.
-- **A component's Less file or Twig file is not wrapped with its primary class.** In order to keep components as portable as
-possible, it's useful to apply the component's primary class name (in the form of `.layer-componentIdentifier`) to its 
-outermost element, and to wrap everything in its Less file, including variable declarations, with the same class. This practice
-increases the confidence we can have that a given component's CSS will only ever affect its intended component.
+- **A component's Less file contains CSS that's only relevant in a specific context.** A component's Less file should only contain CSS that would be relevant to the component no matter where in a theme it's used. Whenever you see CSS in a component's Less file that relates to its use at a specific location in the theme or another component, that CSS should be moved into a location specific to that context (such as a parent component's less file or `global.less`).
+- **A component's Less file or Twig file is not wrapped with its primary class.** In order to keep components as portable as possible, it's useful to apply the component's primary class name (in the form of `.layer-componentIdentifier`) to its outermost element, and to wrap everything in its Less file, including variable declarations, with the same class. This practice increases the confidence we can have that a given component's CSS will only ever affect that specific component.
 - **A component's CSS references variables not declared in the same file.** Generally, by redeclaring any needed global variables within the component's primary class scope, and only using those redeclared variables in the component's CSS, the component is made more portable and easier to customize. (For more information on naming these redelcared variables, see [naming_things.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/naming_things.md).) One exception to this rule is global breakpoint variables (e.g. `@screenSmMax`), which should be referenced without being redeclared. 
 - **A component's Twig source doesn't make sense alone.** If you see an orphaned `</div>` at the beginning of a component's Twig file, or an unclosed element at its end, that's a strong indication that the component hasn't been properly decoupled
 from other components or templates, and needs to be refactored so it can stand alone.
