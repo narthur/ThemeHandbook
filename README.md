@@ -29,24 +29,41 @@ All themes       | [Pull Requests][all-pr] | [Issues][all-iss] |                
 
 ## External Resources
 
+### Architecture
+
 - [*Atomic Design* by Brad Frost](http://atomicdesign.bradfrost.com/)
-- [Can I use](http://caniuse.com/)
+
+### CSS
+
+- [CSS-Tricks CSS Almanac](https://css-tricks.com/almanac/)
+- [Less documentation](http://lesscss.org/)
+
+### HTML
+
+- [Twig documentation](https://twig.sensiolabs.org/doc/2.x/)
+
+### JavaScript
+
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md)
 - [CoffeeScript documentation](http://coffeescript.org/)
-- [CSS-Tricks CSS Almanac](https://css-tricks.com/almanac/)
+- [JSONLint](https://jsonlint.com/)
+- [*The Little Book on CoffeeScript*](http://arcturo.github.io/library/coffeescript/)
+
+### Tools
+
 - [Diffchecker](https://www.diffchecker.com/)
 - [Emmet Re:view](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
-- [JSONLint](https://jsonlint.com/)
-- [Less documentation](http://lesscss.org/)
-- [*The Little Book on CoffeeScript*](http://arcturo.github.io/library/coffeescript/)
+
+### Usability
+
 - [Nielsen Norman Group](https://www.nngroup.com/)
-- [Sidebar](https://sidebar.io/)
-- [StackOverflow](https://stackoverflow.com/)
-- [Twig documentation](https://twig.sensiolabs.org/doc/2.x/)
 - [UXmatters](http://www.uxmatters.com/)
 
+### Etcetera
 
-
+- [Can I use](http://caniuse.com/)
+- [Sidebar](https://sidebar.io/)
+- [StackOverflow](https://stackoverflow.com/)
 
 [all-pr]: https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+repo%3ASimpleUpdates%2FSUThemeALPS+repo%3ASimpleUpdates%2FSUThemeBanyan+repo%3ASimpleUpdates%2FSUThemeGumwood+repo%3ASimpleUpdates%2FSUThemeIris+repo%3ASimpleUpdates%2FSUThemeObsidian+repo%3ASimpleUpdates%2FSUThemeOrganic+repo%3ASimpleUpdates%2FSUThemePrairie+repo%3ASimpleUpdates%2FSUThemePrototype+repo%3ASimpleUpdates%2FSUThemeSpruce+repo%3ASimpleUpdates%2FSUThemeWillow
 [all-iss]: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+repo%3ASimpleUpdates%2FSUThemeALPS+repo%3ASimpleUpdates%2FSUThemeBanyan+repo%3ASimpleUpdates%2FSUThemeGumwood+repo%3ASimpleUpdates%2FSUThemeIris+repo%3ASimpleUpdates%2FSUThemeObsidian+repo%3ASimpleUpdates%2FSUThemeOrganic+repo%3ASimpleUpdates%2FSUThemePrairie+repo%3ASimpleUpdates%2FSUThemePrototype+repo%3ASimpleUpdates%2FSUThemeSpruce+repo%3ASimpleUpdates%2FSUThemeWillow
