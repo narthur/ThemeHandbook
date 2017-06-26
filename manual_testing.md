@@ -22,3 +22,10 @@ When testing a theme manually, here are some things to check.
 - Does the site function properly in all browsers?
 - Does the site function properly when accessed in a browser for the blind or the visually impaired?
 - Does the site handle the extremes of content well? Lots of content? No content? Lost of icons? No icons? Etc.
+- Does content jump around when [connection speed is throttled](https://css-tricks.com/throttling-the-network/)?
+
+## Tools
+
+- [Emmet Re:view](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
+- [W3C Markup Validation Service](https://validator.w3.org/)
+- [WebAIM Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
