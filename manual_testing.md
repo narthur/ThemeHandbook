@@ -17,3 +17,8 @@ When testing a theme manually, here are some things to check.
 - Does every page and component function properly at any screen size?
 - Does the theme still function properly given any combination or extreme of user-supplied configuration values?
 - What happens if the user sets all theme colors to white? Black?
+- Is the site still usable without JavaScript? Without CSS?
+- Does the site [validate](https://validator.w3.org/)?
+- Does the site function properly in all browsers?
+- Does the site function properly when accessed in a browser for the blind or the visually impaired?
+- Does the site handle the extremes of content well? Lots of content? No content? Lost of icons? No icons? Etc.
