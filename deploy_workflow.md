@@ -36,5 +36,5 @@ This stage should be done by someone different from the person who did the previ
 
 Sites used for reviewing need to be using the 2016 branch for themes. When using one of the below sites, reinstalling the theme should update the theme with the latest commits on the remote 2016 branch.
 
-- [crystalh.sites.simpleupdates.com](http://crystalh.sites.simpleupdates.com/)
 - [acc.simpleupdates.com](https://acc.simpleupdates.com/)
+- [crystalh.sites.simpleupdates.com](http://crystalh.sites.simpleupdates.com/)
