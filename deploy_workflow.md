@@ -14,6 +14,16 @@
 - Compare production...2016 and create a pull request if there are differences
 - Request review on the PR
 
+## Review deploy PR
+
+This stage should be done by someone different from the person who did the previous stages.
+
+- Pull and activate latest version of 2016
+- Visually review all components in styleguide (usually at `/admin/theme/view/layout/styleguide.html`)
+- Visually review all theme layouts
+- Ask for any needed changes in the PR
+- When satisfied, approve PR
+
 ## Deploy
 
 - Once the PR has been approved, merge 2016 into production
