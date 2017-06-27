@@ -28,6 +28,8 @@ This stage should be done by someone different from the person who did the previ
 - Ask for any needed changes in the PR
 - When satisfied, approve PR
 
+For more information, see [manual_testing.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/manual_testing.md)
+
 ### Deploy
 
 - Once the PR has been approved, merge 2016 into production
