@@ -27,5 +27,8 @@ When testing a theme manually, here are some things to check.
 ## Tools
 
 - [Emmet Re:view](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
+- [Recordit](http://recordit.co/)
+- [Skitch](https://evernote.com/skitch/)
+- [Snaggy](https://snag.gy/)
 - [W3C Markup Validation Service](https://validator.w3.org/)
 - [WebAIM Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
