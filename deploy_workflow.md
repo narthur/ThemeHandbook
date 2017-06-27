@@ -1,5 +1,7 @@
 # Deploy Workflow
 
+[![Deploy Diagram](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/deploy_diagram.png?raw=true)](http://shakydraw.com/)
+
 0. Review all issues
 0. Review all pull requests
 0. Review all branches
