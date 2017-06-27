@@ -1,5 +1,7 @@
 # Deploy Workflow
 
+[![Deploy Diagram](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/deploy_diagram.png?raw=true)](http://shakydraw.com/)
+
 ## Review all themes
 
 0. Review all issues
@@ -15,5 +17,3 @@
 ## Deploy
 
 0. Once the PR has been approved, merge 2016 into production
-
-[![Deploy Diagram](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/deploy_diagram.png?raw=true)](http://shakydraw.com/)
