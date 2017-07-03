@@ -40,3 +40,4 @@ Sites used for reviewing need to be using the 2016 branch for themes. When using
 
 - [acc.simpleupdates.com](https://acc.simpleupdates.com/)
 - [crystalh.sites.simpleupdates.com](http://crystalh.sites.simpleupdates.com/)
+- [next.simpleupdates.com](https://next.simpleupdates.com/)
