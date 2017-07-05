@@ -5,6 +5,7 @@
 - [components.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/components.md)
 - [deploy_workflow.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/deploy_workflow.md)
 - [external_resources.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/external_resources.md)
+- [internal_resources.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/internal_resources.md)
 - [manual_testing.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/manual_testing.md)
 - [naming_things.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/naming_things.md)
 - [theme_api.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/theme_api.md)
