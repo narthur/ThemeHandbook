@@ -4,6 +4,7 @@
 
 - [components.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/components.md)
 - [deploy_workflow.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/deploy_workflow.md)
+- [external_resources.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/external_resources.md)
 - [manual_testing.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/manual_testing.md)
 - [naming_things.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/naming_things.md)
 - [theme_api.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/theme_api.md)
@@ -27,44 +28,6 @@ All themes       | [Pull Requests][all-pr] | [Issues][all-iss] |                
 ## Demo Sites
 
 - [http://www.walktopeace.com/](http://www.walktopeace.com/) (version 2)
-
-## External Resources
-
-### Architecture
-
-- [*Atomic Design* by Brad Frost](http://atomicdesign.bradfrost.com/)
-
-### CSS
-
-- [CSS-Tricks CSS Almanac](https://css-tricks.com/almanac/)
-- [Less documentation](http://lesscss.org/)
-
-### HTML
-
-- [Twig documentation](https://twig.sensiolabs.org/doc/2.x/)
-
-### JavaScript
-
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md)
-- [CoffeeScript documentation](http://coffeescript.org/)
-- [JSONLint](https://jsonlint.com/)
-- [*The Little Book on CoffeeScript*](http://arcturo.github.io/library/coffeescript/)
-
-### Tools
-
-- [Diffchecker](https://www.diffchecker.com/)
-- [Emmet Re:view](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
-
-### Usability
-
-- [Nielsen Norman Group](https://www.nngroup.com/)
-- [UXmatters](http://www.uxmatters.com/)
-
-### Etcetera
-
-- [Can I use](http://caniuse.com/)
-- [Sidebar](https://sidebar.io/)
-- [StackOverflow](https://stackoverflow.com/)
 
 [all-pr]: https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+repo%3ASimpleUpdates%2FSUThemeALPS+repo%3ASimpleUpdates%2FSUThemeBanyan+repo%3ASimpleUpdates%2FSUThemeGumwood+repo%3ASimpleUpdates%2FSUThemeIris+repo%3ASimpleUpdates%2FSUThemeObsidian+repo%3ASimpleUpdates%2FSUThemeOrganic+repo%3ASimpleUpdates%2FSUThemePrairie+repo%3ASimpleUpdates%2FSUThemePrototype+repo%3ASimpleUpdates%2FSUThemeSpruce+repo%3ASimpleUpdates%2FSUThemeWillow
 [all-iss]: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+repo%3ASimpleUpdates%2FSUThemeALPS+repo%3ASimpleUpdates%2FSUThemeBanyan+repo%3ASimpleUpdates%2FSUThemeGumwood+repo%3ASimpleUpdates%2FSUThemeIris+repo%3ASimpleUpdates%2FSUThemeObsidian+repo%3ASimpleUpdates%2FSUThemeOrganic+repo%3ASimpleUpdates%2FSUThemePrairie+repo%3ASimpleUpdates%2FSUThemePrototype+repo%3ASimpleUpdates%2FSUThemeSpruce+repo%3ASimpleUpdates%2FSUThemeWillow
