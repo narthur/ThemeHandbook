@@ -24,6 +24,7 @@ When testing a theme manually, here are some things to check.
 - Does the site handle the extremes of content well? Lots of content? No content? Lost of icons? No icons? Etc.
 - Does content jump around when [connection speed is throttled](https://css-tricks.com/throttling-the-network/)?
 - Are emails linked using `mailto:` and phone numbers linked using `tel:`?
+- Are small versions of large images being properly served on mobile?
 
 ## Tools
 
