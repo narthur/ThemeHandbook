@@ -4,6 +4,15 @@
 
 Good names are important, because code is only easy to change when it's easy to read and understand.
 
+## General
+
+- Prioritize understandable over short names.
+- Avoid abbreviations and otherwise-unpronouncable names.
+- If something is a collection of other things, name it as the plural of what it contains.
+- If something is a single thing, give it a singular noun name.
+- If something is a function, give it a verb name.
+- Aim for names that allow your code to read like well-formed prose.
+
 ## Naming Less Variables
 
 Less variable names should be camel cased.
