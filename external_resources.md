@@ -4,11 +4,16 @@
 
 - [18F Accessibility Guide](https://accessibility.18f.gov/)
 - [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/)
+- [A11Y Style Guide](A11Y Style Guide)
+- [Deque](https://www.deque.com/)
+- [eBay MIND Patterns](https://ianmcburnie.github.io/mindpatterns/index.html)
 - [Empathy Prompts](https://empathyprompts.net/)
 - [Google Material Design Accessibility Principles](https://material.io/guidelines/usability/accessibility.html)
 - [Inclusive Design Principles](http://inclusivedesignprinciples.org/)
 - [Microsoft Inclusive Design Principles](https://www.microsoft.com/en-us/design/inclusive)
+- [Udacity Web Accessibility course, by Google, free](https://www.udacity.com/course/web-accessibility--ud891)
 - [Vox Media Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/)
+- [WebAIM](http://webaim.org/resources/designers/)
 
 ## Architecture
 
