@@ -13,6 +13,7 @@
 - [HTML5 Accessibility](http://www.html5accessibility.com/)
 - [Inclusive Design Principles](http://inclusivedesignprinciples.org/)
 - [Microsoft Inclusive Design Principles](https://www.microsoft.com/en-us/design/inclusive)
+- [Random A11y Color Palettes](https://randoma11y.com/)
 - [tota11y](http://khan.github.io/tota11y/)
 - [Udacity Web Accessibility course, by Google, free](https://www.udacity.com/course/web-accessibility--ud891)
 - [Vox Media Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/)
@@ -22,6 +23,15 @@
 ## Architecture
 
 - [*Atomic Design* by Brad Frost](http://atomicdesign.bradfrost.com/)
+
+## Color
+
+- [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
+- [Coolors](https://coolors.co/9ac4f8-99edcc-cb958e-e36588-9a275a)
+- [Pallettable](http://www.palettable.io/)
+- [Random A11y Color Palettes](https://randoma11y.com/)
+- [Sip](http://sipapp.io/)
+- [Wikipedia's category for color shades](https://en.wikipedia.org/wiki/Category:Shades_of_color_templates)
 
 ## CSS
 
