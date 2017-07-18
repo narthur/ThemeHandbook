@@ -4,7 +4,7 @@
 
 - [18F Accessibility Guide](https://accessibility.18f.gov/)
 - [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/)
-- [A11Y Style Guide](A11Y Style Guide)
+- [A11Y Style Guide](http://a11y-style-guide.com/style-guide/)
 - [Deque](https://www.deque.com/)
 - [eBay MIND Patterns](https://ianmcburnie.github.io/mindpatterns/index.html)
 - [Empathy Prompts](https://empathyprompts.net/)
