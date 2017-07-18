@@ -2,7 +2,12 @@
 
 ## Accessibility
 
+- [18F Accessibility Guide](https://accessibility.18f.gov/)
 - [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/)
+- [Empathy Prompts](https://empathyprompts.net/)
+- [Google Material Design Accessibility Principles](https://material.io/guidelines/usability/accessibility.html)
+- [Inclusive Design Principles](http://inclusivedesignprinciples.org/)
+- [Microsoft Inclusive Design Principles](https://www.microsoft.com/en-us/design/inclusive)
 - [Vox Media Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/)
 
 ## Architecture
