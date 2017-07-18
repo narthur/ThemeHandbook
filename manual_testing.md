@@ -31,6 +31,8 @@ When testing a theme manually, here are some things to check.
 - [Chrome device mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports)
 - [Chrome full-page screenshots](https://developers.google.com/web/updates/2017/04/devtools-release-notes#screenshots)
 - [Chrome network panel and emulation](https://developers.google.com/web/tools/chrome-devtools/network-performance/)
+- [Colour Contrast Checker](https://www.paciellogroup.com/resources/contrastanalyser/)
+- [Contrast](https://usecontrast.com/)
 - [Emmet Re:view](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
 - [pa11y](https://github.com/pa11y/pa11y)
 - [Recordit](http://recordit.co/)
