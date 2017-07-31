@@ -1,5 +1,7 @@
 # ThemeHandbook
 
+`bundle exec jekyll serve`
+
 ## Index
 
 - [components.md](https://github.com/SimpleUpdates/ThemeHandbook/blob/master/components.md)

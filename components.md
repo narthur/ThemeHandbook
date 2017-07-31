@@ -1,4 +1,8 @@
-# Components
+---
+layout: page
+title: Components
+permalink: /components/
+---
 
 ## Layers
 

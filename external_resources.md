@@ -1,4 +1,8 @@
-# External Resources
+---
+layout: page
+title: External Resources
+permalink: /external-resources/
+---
 
 ## Accessibility
 

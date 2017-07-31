@@ -1,4 +1,8 @@
-# Naming Things
+---
+layout: page
+title: Naming Things
+permalink: /naming-things/
+---
 
 > "There are only two hard things in Computer Science: cache invalidation and naming things" (Phil Karlton, [via Martin Fowler](https://www.martinfowler.com/bliki/TwoHardThings.html)).
 

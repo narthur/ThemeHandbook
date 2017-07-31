@@ -1,4 +1,8 @@
-# Deploy Workflow
+---
+layout: page
+title: Deploy Workflow
+permalink: /deploy-workflow/
+---
 
 ## Diagram
 

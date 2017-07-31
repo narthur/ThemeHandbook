@@ -1,4 +1,8 @@
-# Manual Testing
+---
+layout: page
+title: Manual Testing
+permalink: /manual-testing/
+---
 
 When testing a theme manually, here are some things to check.
 
