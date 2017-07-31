@@ -15,6 +15,7 @@
 - [Google Material Design Accessibility Principles](https://material.io/guidelines/usability/accessibility.html)
 - [Hex Naw](https://hexnaw.com/)
 - [HTML5 Accessibility](http://www.html5accessibility.com/)
+- [Inclusive Components](https://inclusive-components.design/) - "A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece."
 - [Inclusive Design Principles](http://inclusivedesignprinciples.org/)
 - [Microsoft Inclusive Design Principles](https://www.microsoft.com/en-us/design/inclusive)
 - [Random A11y Color Palettes](https://randoma11y.com/)
