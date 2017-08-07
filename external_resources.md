@@ -72,6 +72,7 @@
 ## Inspiration
 
 - [CollectUI](http://collectui.com/)
+- [DesignMunk](https://designmunk.com/)
 - [httpster](https://httpster.net)
 - [One Page Love](https://onepagelove.com/)
 - [Pattern Tap](http://zurb.com/patterntap)
