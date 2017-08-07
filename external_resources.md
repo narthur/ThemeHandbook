@@ -57,6 +57,19 @@
 - [CSS-Tricks CSS Almanac](https://css-tricks.com/almanac/)
 - [Less documentation](http://lesscss.org/)
 
+### Flexbox
+
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+### Grid
+
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - "CSS Grid Layout is the most powerful layout system available in CSS. It is a 2-dimensional system, meaning it can handle both columns and rows, unlike flexbox which is largely a 1-dimensional system."
+- [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/) by Morten Rand-Hendriksen
+- [CSS Grid](https://www.mozilla.org/en-US/developer/css-grid/) by Mozilla - "CSS Grid simplifies existing layout patterns
+*and* adds new possibilities for graphic design."
+- [CSS Grid Changes EVERYTHING](https://youtu.be/7kVeCqQCxlk) - Video. "CSS Grid is now live in all major browsers, and with it everything we know about web layouts changes! The CSS Grid Layout Module introduces a native CSS grid system, provided at the viewport level, that achieves what CSS frameworks and popular grid systems could only dream about: Responsive, flexible, pure CSS grid layouts, independent of document source order, that allow us to treat the browser as a true design and layout surface."
+- [Grid by Example](https://gridbyexample.com/) - "Everything you need to learn CSS Grid Layout"
+
 ## Design Patterns
 
 - [*Atomic Design* by Brad Frost](http://atomicdesign.bradfrost.com/)
