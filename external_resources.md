@@ -73,6 +73,7 @@
 ## Design Patterns
 
 - [*Atomic Design* by Brad Frost](http://atomicdesign.bradfrost.com/)
+- [DataVizProject.com](http://datavizproject.com/) - "a website trying to present all relevant data visualizations, so you can find the right visualization and get inspiration on how to do it"
 - [Empty States](http://emptystat.es/)
 - [Little Big Details](http://littlebigdetails.com/)
 - [Pattern Tap](http://zurb.com/patterntap)
