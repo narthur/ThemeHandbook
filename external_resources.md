@@ -72,7 +72,7 @@
 ## Inspiration
 
 - [CollectUI](http://collectui.com/)
-- [DesignMunk](https://designmunk.com/)
+- [DesignMunk](https://designmunk.com/) - "a homepage design inspiration blog focusing on showcasing and promoting inspiring new homepage and landing page designs from around the world"
 - [httpster](https://httpster.net)
 - [One Page Love](https://onepagelove.com/)
 - [Pattern Tap](http://zurb.com/patterntap)
