@@ -79,6 +79,13 @@
 - [Pattern Tap](http://zurb.com/patterntap)
 - [pttrns](https://pttrns.com/)
 
+## Design Thinking
+
+- [Design Leadership Handbook](https://www.designbetter.co/design-leadership-handbook) - Free online.
+- [Design Thinking Handbook](https://www.designbetter.co/design-thinking) - Free online.
+- [The Field Guide to Human-Centered Design](http://www.designkit.org//resources/1) - Free PDF. "A step-by-step guide that will get you solving problems like a designer."
+- [Principles of Product Design](https://www.designbetter.co/principles-of-product-design) - Free online.
+
 ## HTML
 
 - [Twig documentation](https://twig.sensiolabs.org/doc/2.x/)
