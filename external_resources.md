@@ -39,7 +39,7 @@
 - [Coolors](https://coolors.co/9ac4f8-99edcc-cb958e-e36588-9a275a)
 - [Hex Naw](https://hexnaw.com/)
 - [Pallettable](http://www.palettable.io/)
-- [Random A11y Color Palettes](https://randoma11y.com/)
+- [randoma11y](https://randoma11y.com/) - "An ongoing project to try and curate beautiful color palettes that are a11y friendly. This app generates a random palette and allows you to vote the combination up or down. We'll store the info and keep our API open."
 - [Sip](http://sipapp.io/)
 - [WebAIM Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
 - [Wikipedia's category for color shades](https://en.wikipedia.org/wiki/Category:Shades_of_color_templates)
