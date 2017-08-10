@@ -104,7 +104,7 @@
 - [SiteSee](https://sitesee.co/)
 - [UI Movement](https://uimovement.com/)
 - [Unmatched Style](http://unmatchedstyle.com/)
-- [Web Creme](http://www.webcreme.com/)
+- [Web Creme](http://www.webcreme.com/) - "Web Creme is a showcase of inspiring web designs and current trends that will get every web designer's creative juices flowing. We search the web for the best and most creatively designed websites and present them in our gallery for your inspiration and idea generation."
 
 ## JavaScript
 
