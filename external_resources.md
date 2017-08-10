@@ -54,6 +54,7 @@
 
 ## CSS
 
+- [CSS Grid Highlighter for Chrome](https://github.com/ademilter/chrome-css-grid-highlighter)
 - [CSS-Tricks CSS Almanac](https://css-tricks.com/almanac/)
 - [Less documentation](http://lesscss.org/)
 
