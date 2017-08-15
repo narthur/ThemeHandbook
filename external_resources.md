@@ -69,6 +69,7 @@
 - [CSS Grid](https://www.mozilla.org/en-US/developer/css-grid/) by Mozilla - "CSS Grid simplifies existing layout patterns
 *and* adds new possibilities for graphic design."
 - [CSS Grid Changes EVERYTHING](https://youtu.be/7kVeCqQCxlk) - Video. "CSS Grid is now live in all major browsers, and with it everything we know about web layouts changes! The CSS Grid Layout Module introduces a native CSS grid system, provided at the viewport level, that achieves what CSS frameworks and popular grid systems could only dream about: Responsive, flexible, pure CSS grid layouts, independent of document source order, that allow us to treat the browser as a true design and layout surface."
+- [The Difference Between Explicit and Implicit Grids](https://css-tricks.com/difference-explicit-implicit-grids/) - "Grid Layout finally gives us the ability to define grids in CSS and place items into grid cells. This on its own is great, but the fact that we *don't have to* specify each track and we *don't have to* place every item manually makes the new module even better. Grids are flexible enough to adapt to their items."
 - [Grid by Example](https://gridbyexample.com/) - "Everything you need to learn CSS Grid Layout"
 
 ## Design Patterns
