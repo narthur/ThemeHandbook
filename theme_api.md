@@ -39,7 +39,7 @@ Item                    | Description
 ------------------------|-------------
 `su.request.path`       |
 `su.request.protocol`   |
-`su.request.query`      |
+`su.request.query`      | Allows access to POST and GET data
 `su.request.serverName` |
 `su.request.url`        |
 
