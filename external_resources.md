@@ -49,6 +49,7 @@
 - [Creative Market](https://creativemarket.com/)
 - [DeathToStock](http://deathtothestockphoto.com/)
 - [Magdeleine](https://magdeleine.co/browse/)
+- [Stockio](https://www.stockio.com/) - "Free Photos, Vectors, Icons, Fonts and Videos. Thousands of files for personal and commercial use"
 - [Unsplash](https://unsplash.com/)
 - [YouWorkForThem](https://www.youworkforthem.com/graphics/)
 
