@@ -137,6 +137,7 @@
 - [Lists](http://www.lists.design/) - "Real content for all your designs."
 - [lorempixel](http://lorempixel.com/) - "Placeholder Images for every case."
 - [Random User Generator](https://randomuser.me/) - "A free, open-source API for generating random user data. Like Lorem Ipsum, but for people."
+- [uiFaces](http://uifaces.com/)
 - [Unsplash.it](https://unsplash.it/) - "Beautiful placeholders using images from unsplash"
 - [VeggieIpsum](http://veggieipsum.com/) - "The vegetarian lorem ipsum generator"
 
