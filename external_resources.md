@@ -164,5 +164,6 @@
 
 - [Can I use](http://caniuse.com/)
 - [Free UX Ebooks](https://www.uxpin.com/studio/ebooks/) by Studio by UXPin - "Thoughtful content on mobile & web prototyping, wireframing, mockups, usability testing, project management, design process & more."
+- [Golden Ratio Calculator](https://www.calculatorsoup.com/calculators/math/goldenratio.php)
 - [Sidebar](https://sidebar.io/)
 - [StackOverflow](https://stackoverflow.com/)
