@@ -159,6 +159,7 @@
 - [Lookback](https://lookback.io/)
 - [UsabilityHub](https://usabilityhub.com/)
 - [UserTesting.com](https://www.usertesting.com/)
+- [Dovetail](https://dovetailapp.com/) - "Organize qualitative research data, analyze it collaboratively, and share insights with your team. Understand what your users need and build a better product with Dovetail."
 
 ## Etcetera
 
