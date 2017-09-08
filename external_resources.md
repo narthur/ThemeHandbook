@@ -156,10 +156,10 @@
 ## User Research
 
 - [Attest](https://www.askattest.com/) - "Send surveys to any audience and understand what they think in real-time"
+- [Dovetail](https://dovetailapp.com/) - "Organize qualitative research data, analyze it collaboratively, and share insights with your team. Understand what your users need and build a better product with Dovetail."
 - [Lookback](https://lookback.io/)
 - [UsabilityHub](https://usabilityhub.com/)
 - [UserTesting.com](https://www.usertesting.com/)
-- [Dovetail](https://dovetailapp.com/) - "Organize qualitative research data, analyze it collaboratively, and share insights with your team. Understand what your users need and build a better product with Dovetail."
 
 ## Etcetera
 
