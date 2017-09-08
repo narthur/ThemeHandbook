@@ -1,55 +1,56 @@
 Col 1|Col 2|Col 3
 -|-|-
+![][i1]||
 
-![](layout-icons/content-2col-leftbody-alltext.svg)
-![](layout-icons/content-2col-leftbody-color.svg)
-![](layout-icons/content-2col-leftbody-image.svg)
-![](layout-icons/content-2col-rightbody-alltext.svg)
-![](layout-icons/content-2col-rightbody-color.svg)
-![](layout-icons/content-2col-rightbody-image.svg)
-![](layout-icons/content-3col-alltext.svg)
-![](layout-icons/content-3col-color.svg)
-![](layout-icons/content-3col-image.svg)
-![](layout-icons/content-leftsidebar-color.svg)
-![](layout-icons/content-leftsidebar-image.svg)
-![](layout-icons/content-open-color.svg)
-![](layout-icons/content-open-image.svg)
-![](layout-icons/content-rightsidebar-color.svg)
-![](layout-icons/content-rightsidebar-image.svg)
-![](layout-icons/content-rubix-alternating.svg)
-![](layout-icons/content-rubix-wrap.svg)
-![](layout-icons/content-rubix.svg)
-![](layout-icons/formats-cards.svg)
-![](layout-icons/formats-columns.svg)
-![](layout-icons/formats-mosaic.svg)
-![](layout-icons/formats-rows.svg)
-![](layout-icons/home-2col-buttons.svg)
-![](layout-icons/home-2col-carousel-alt.svg)
-![](layout-icons/home-2col-carousel.svg)
-![](layout-icons/home-2col-static.svg)
-![](layout-icons/home-3col-carousel.svg)
-![](layout-icons/home-3col-static.svg)
-![](layout-icons/home-buttons-carousel.svg)
-![](layout-icons/home-buttons-static.svg)
-![](layout-icons/home-hero-carousel.svg)
-![](layout-icons/home-hero-static.svg)
-![](layout-icons/home-leftbutton-carousel.svg)
-![](layout-icons/home-leftbutton-static.svg)
-![](layout-icons/home-leftside-carousel.svg)
-![](layout-icons/home-leftside-static.svg)
-![](layout-icons/home-lefttext-carousel.svg)
-![](layout-icons/home-lefttext-static.svg)
-![](layout-icons/home-rightbutton-carousel.svg)
-![](layout-icons/home-rightbutton-static.svg)
-![](layout-icons/home-rightside-carousel.svg)
-![](layout-icons/home-rightside-static.svg)
-![](layout-icons/home-righttext-carousel.svg)
-![](layout-icons/home-righttext-static.svg)
-![](layout-icons/home-rubix-carousel.svg)
-![](layout-icons/home-stackbutton-carousel.svg)
-![](layout-icons/home-stackbutton-static.svg)
-![](layout-icons/home-tile.svg)
-![](layout-icons/home-vertical-leftcarousel.svg)
-![](layout-icons/home-vertical-leftstatic.svg)
-![](layout-icons/home-vertical-rightcarousel.svg)
-![](layout-icons/home-vertical-rightstatic.svg)
+[i1]: layout-icons/content-2col-leftbody-alltext.svg
+[i2]: layout-icons/content-2col-leftbody-color.svg
+[i3]: layout-icons/content-2col-leftbody-image.svg
+[i4]: layout-icons/content-2col-rightbody-alltext.svg
+[i5]: layout-icons/content-2col-rightbody-color.svg
+[i6]: layout-icons/content-2col-rightbody-image.svg
+[i7]: layout-icons/content-3col-alltext.svg
+[i8]: layout-icons/content-3col-color.svg
+[i9]: layout-icons/content-3col-image.svg
+[i10]: layout-icons/content-leftsidebar-color.svg
+[i11]: layout-icons/content-leftsidebar-image.svg
+[i12]: layout-icons/content-open-color.svg
+[i13]: layout-icons/content-open-image.svg
+[i14]: layout-icons/content-rightsidebar-color.svg
+[i15]: layout-icons/content-rightsidebar-image.svg
+[i16]: layout-icons/content-rubix-alternating.svg
+[i17]: layout-icons/content-rubix-wrap.svg
+[i18]: layout-icons/content-rubix.svg
+[i19]: layout-icons/formats-cards.svg
+[i20]: layout-icons/formats-columns.svg
+[i21]: layout-icons/formats-mosaic.svg
+[i22]: layout-icons/formats-rows.svg
+[i23]: layout-icons/home-2col-buttons.svg
+[i24]: layout-icons/home-2col-carousel-alt.svg
+[i25]: layout-icons/home-2col-carousel.svg
+[i26]: layout-icons/home-2col-static.svg
+[i27]: layout-icons/home-3col-carousel.svg
+[i28]: layout-icons/home-3col-static.svg
+[i29]: layout-icons/home-buttons-carousel.svg
+[i30]: layout-icons/home-buttons-static.svg
+[i31]: layout-icons/home-hero-carousel.svg
+[i32]: layout-icons/home-hero-static.svg
+[i33]: layout-icons/home-leftbutton-carousel.svg
+[i34]: layout-icons/home-leftbutton-static.svg
+[i35]: layout-icons/home-leftside-carousel.svg
+[i36]: layout-icons/home-leftside-static.svg
+[i37]: layout-icons/home-lefttext-carousel.svg
+[i38]: layout-icons/home-lefttext-static.svg
+[i39]: layout-icons/home-rightbutton-carousel.svg
+[i40]: layout-icons/home-rightbutton-static.svg
+[i41]: layout-icons/home-rightside-carousel.svg
+[i42]: layout-icons/home-rightside-static.svg
+[i43]: layout-icons/home-righttext-carousel.svg
+[i44]: layout-icons/home-righttext-static.svg
+[i45]: layout-icons/home-rubix-carousel.svg
+[i46]: layout-icons/home-stackbutton-carousel.svg
+[i47]: layout-icons/home-stackbutton-static.svg
+[i48]: layout-icons/home-tile.svg
+[i49]: layout-icons/home-vertical-leftcarousel.svg
+[i50]: layout-icons/home-vertical-leftstatic.svg
+[i51]: layout-icons/home-vertical-rightcarousel.svg
+[i52]: layout-icons/home-vertical-rightstatic.svg
