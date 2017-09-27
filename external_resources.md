@@ -79,6 +79,7 @@
 - [*Atomic Design* by Brad Frost](http://atomicdesign.bradfrost.com/)
 - [DataVizProject.com](http://datavizproject.com/) - "a website trying to present all relevant data visualizations, so you can find the right visualization and get inspiration on how to do it"
 - [Empty States](http://emptystat.es/)
+- [Good Web Design](http://www.goodweb.design/) - "The best landing pages, organized by section"
 - [Little Big Details](http://littlebigdetails.com/)
 - [Mobile Patterns](http://www.mobile-patterns.com/)
 - [Pattern Tap](http://zurb.com/patterntap)
