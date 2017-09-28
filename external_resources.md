@@ -160,10 +160,13 @@
 ## User Research
 
 - [Attest](https://www.askattest.com/) - "Send surveys to any audience and understand what they think in real-time"
+- [Criticue](http://www.criticue.com/) - "Your web projects. Peer reviewed. The more you contribute the more feedback you receive."
 - [Dovetail](https://dovetailapp.com/) - "Organize qualitative research data, analyze it collaboratively, and share insights with your team. Understand what your users need and build a better product with Dovetail."
+- [Fullstory](https://www.fullstory.com/features/) - "Search your customer experience like you search the web."
 - [Lookback](https://lookback.io/)
 - [Silverback 3](https://silverbackapp.com/) - "Silverback 3 is the no-nonsense usability testing app for Mac. Get set up and start enjoying straightforward usability testing in seconds." Free version available.
 - [UsabilityHub](https://usabilityhub.com/)
+- [UserTest.io](https://usertest.io/) - "UserTest.io is the lowest priced user testing platform on the market, providing high-quality videos within 24hrs"
 - [UserTesting.com](https://www.usertesting.com/)
 
 ## Etcetera
