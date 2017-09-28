@@ -162,7 +162,7 @@
 - [Attest](https://www.askattest.com/) - "Send surveys to any audience and understand what they think in real-time"
 - [Dovetail](https://dovetailapp.com/) - "Organize qualitative research data, analyze it collaboratively, and share insights with your team. Understand what your users need and build a better product with Dovetail."
 - [Lookback](https://lookback.io/)
-- [Silverback 3](https://silverbackapp.com/) - "Silverback 3 is the no-nonsense usability testing app for Mac. Get set up and start enjoying straightforward usability testing in seconds."
+- [Silverback 3](https://silverbackapp.com/) - "Silverback 3 is the no-nonsense usability testing app for Mac. Get set up and start enjoying straightforward usability testing in seconds." Free version available.
 - [UsabilityHub](https://usabilityhub.com/)
 - [UserTesting.com](https://www.usertesting.com/)
 
