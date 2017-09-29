@@ -38,6 +38,7 @@
 - [Contrast](https://usecontrast.com/)
 - [Coolors](https://coolors.co/9ac4f8-99edcc-cb958e-e36588-9a275a)
 - [Hex Naw](https://hexnaw.com/)
+- [Khroma](http://khroma.co/) - "The AI color tool for designers. Discover, search, & save color combinations you'll love."
 - [Klart Colors](https://klart.co/colors) - "Colors is a 100% data-driven collection of color palettes. After a year of curating beautiful designs over at Pixels I figured out that I could make something cool with the data and this is the result."
 - [Pallettable](http://www.palettable.io/)
 - [randoma11y](https://randoma11y.com/) - "An ongoing project to try and curate beautiful color palettes that are a11y friendly. This app generates a random palette and allows you to vote the combination up or down. We'll store the info and keep our API open."
