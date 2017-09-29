@@ -21,7 +21,7 @@ Item                      | Description
 `su.page.authors`         |
 `su.page.breadcrumbs`     |
 `su.page.children`        | Get a page's children
-`su.page.children(id)`    | Get the children of a specific page
+`su.page.children(id)`    | Get the children of a specific page. Inspect the table row in the admin page list to get the id.
 `su.page.description`     |
 `su.page.featuredImage`   | `.fit(x,y)`, `.fill(x,y)`
 `su.page.navigationLabel` |
