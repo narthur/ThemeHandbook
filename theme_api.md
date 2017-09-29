@@ -17,10 +17,11 @@ Item                                        | Description
 ## `su.page`
 
 Item                      | Description
---------------------------|-------------------------------
+--------------------------|-------------------------------         
 `su.page.authors`         |
 `su.page.breadcrumbs`     |
-`su.page.children`        |
+`su.page.children`        | Get a page's children
+`su.page.children(id)`    | Get the children of a specific page
 `su.page.description`     |
 `su.page.featuredImage`   | `.fit(x,y)`, `.fill(x,y)`
 `su.page.navigationLabel` |
