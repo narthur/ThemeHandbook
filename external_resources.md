@@ -7,7 +7,8 @@
 - [A11Y Style Guide](http://a11y-style-guide.com/style-guide/)
 - [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y)
 - [Color Oracle](http://colororacle.org/)
-- [Colour Contrast Checker](https://www.paciellogroup.com/resources/contrastanalyser/)
+- [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)
+- [Colour Contrast Check](https://snook.ca/technical/colour_contrast/colour.html#fg=CFFF33,bg=333333)
 - [Contrast](https://usecontrast.com/)
 - [Deque](https://www.deque.com/)
 - [eBay MIND Patterns](https://ianmcburnie.github.io/mindpatterns/index.html)
@@ -34,13 +35,16 @@
 
 - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
 - [Color Oracle](http://colororacle.org/)
-- [Colour Contrast Checker](https://www.paciellogroup.com/resources/contrastanalyser/)
+- [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)
+- [Colour Contrast Check](https://snook.ca/technical/colour_contrast/colour.html#fg=CFFF33,bg=333333)
 - [Contrast](https://usecontrast.com/)
 - [Coolors](https://coolors.co/9ac4f8-99edcc-cb958e-e36588-9a275a)
 - [Hex Naw](https://hexnaw.com/)
 - [Khroma](http://khroma.co/) - "The AI color tool for designers. Discover, search, & save color combinations you'll love."
 - [Klart Colors](https://klart.co/colors) - "Colors is a 100% data-driven collection of color palettes. After a year of curating beautiful designs over at Pixels I figured out that I could make something cool with the data and this is the result."
 - [Pallettable](http://www.palettable.io/)
+- [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+- [Pictaculous](http://www.pictaculous.com/) by MailChimp - "Upload your image—get a color palette!"
 - [randoma11y](https://randoma11y.com/) - "An ongoing project to try and curate beautiful color palettes that are a11y friendly. This app generates a random palette and allows you to vote the combination up or down. We'll store the info and keep our API open."
 - [Sip](http://sipapp.io/)
 - [WebAIM Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
