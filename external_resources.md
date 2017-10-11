@@ -152,6 +152,7 @@
 
 ### Sketch Kits
 
+- [Bootstrap 3 Vector UI Kit](http://bootstrapuikit.com/)
 - [getUikit Overview Sketch Resource](https://www.sketchappsources.com/free-source/2836-getuikit-sketch-template-sketch-freebie-resource.html)
 - [Sketch App Sources](https://www.sketchappsources.com/)
 - [Sketch Foundation Kit](https://github.com/stephenway/sketch-foundation-kit)
