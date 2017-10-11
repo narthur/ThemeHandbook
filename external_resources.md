@@ -140,6 +140,7 @@
 - [InVision](https://www.invisionapp.com/)
 - [Marvel](https://marvelapp.com/)
 - [Principle](http://principleformac.com/)
+- [Sketch](https://www.sketchapp.com/) - "Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork."
 
 ### Placeholder Content
 
