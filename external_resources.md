@@ -141,6 +141,7 @@
 - [Marvel](https://marvelapp.com/)
 - [Principle](http://principleformac.com/)
 - [Sketch](https://www.sketchapp.com/) - "Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork."
+- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) - "A list of Sketch plugins hosted at GitHub, in alphabetical order."
 
 ### Placeholder Content
 
