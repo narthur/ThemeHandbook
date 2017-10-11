@@ -150,6 +150,13 @@
 - [Unsplash.it](https://unsplash.it/) - "Beautiful placeholders using images from unsplash"
 - [VeggieIpsum](http://veggieipsum.com/) - "The vegetarian lorem ipsum generator"
 
+### Sketch Kits
+
+- [getUikit Overview Sketch Resource](https://www.sketchappsources.com/free-source/2836-getuikit-sketch-template-sketch-freebie-resource.html)
+- [Sketch App Sources](https://www.sketchappsources.com/)
+- [Sketch Foundation Kit](https://github.com/stephenway/sketch-foundation-kit)
+- [Web and Mobile UI Mockup Kit for Sketch](http://sketchuikit.com/)
+
 ## Tools
 
 - [Diffchecker](https://www.diffchecker.com/)
