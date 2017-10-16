@@ -131,7 +131,7 @@
 
 ## Prototyping
 
-- [Adobe Experience Design](https://www.adobe.com/products/experience-design.html#x)
+- [Adobe Experience Design](https://www.adobe.com/products/experience-design.html#x) - "Go from idea to prototype faster with Experience Design CC (Beta), the first all-in-one cross-platform tool for designing and prototyping websites and mobile apps."
 - [Atomic](https://atomic.io/)
 - [Cooper prototyping tools comparison](https://www.cooper.com/prototyping-tools)
 - [Figma](https://www.figma.com/)
