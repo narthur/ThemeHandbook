@@ -134,7 +134,7 @@
 - [Adobe Experience Design](https://www.adobe.com/products/experience-design.html#x) - "Go from idea to prototype faster with Experience Design CC (Beta), the first all-in-one cross-platform tool for designing and prototyping websites and mobile apps."
 - [Atomic](https://atomic.io/)
 - [Cooper prototyping tools comparison](https://www.cooper.com/prototyping-tools)
-- [Figma](https://www.figma.com/)
+- [Figma](https://www.figma.com/) - "Design, prototype, and gather feedback all in one place with Figma." Free, up to 3 projects. $12 / month for unlimited projects.
 - [Flow font](http://danross.co/flow/)
 - [Framer](https://framer.com/)
 - [InVision](https://www.invisionapp.com/)
