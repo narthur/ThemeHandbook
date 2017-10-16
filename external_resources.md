@@ -143,6 +143,7 @@
 - [Sketch](https://www.sketchapp.com/) - "Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork."
 - [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) - "A list of Sketch plugins hosted at GitHub, in alphabetical order."
 - [Sketch Plugins](https://www.sketchapp.com/extensions/plugins/) - "Sketch’s functionality is extended thanks to our fantastic third-party developers who have created some of the plugins below for you to download."
+- [Vectr](https://vectr.com/) - "Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality."
 
 ### Placeholder Content
 
