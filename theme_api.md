@@ -18,6 +18,7 @@ Item                                        | Description
 
 Item                      | Description
 --------------------------|-------------------------------         
+`su.page("/url")`         | Get page by path
 `su.page.authors`         |
 `su.page.breadcrumbs`     |
 `su.page.children`        | Get a page's children
@@ -26,6 +27,7 @@ Item                      | Description
 `su.page.featuredImage`   | `.fit(x,y)`, `.fill(x,y)`
 `su.page.navigationLabel` |
 `su.page.parent`          | Parent of current page
+`su.page.posts`           | Get the posts associated with a blog page. Posts have the same content as pages (title, etc).
 `su.page.publishedAt`     | To format in Twig: `{{ su.page.publishedAt\|date( "F j, Y" ) }}`
 `su.page.target`          |
 `su.page.thumbnail`       |
