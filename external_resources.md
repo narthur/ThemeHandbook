@@ -170,6 +170,7 @@
 
 ## Usability
 
+- [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
 - [Nielsen Norman Group](https://www.nngroup.com/)
 - [uxdesign.cc](https://uxdesign.cc/)
 - [UXmatters](http://www.uxmatters.com/)
