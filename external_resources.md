@@ -34,6 +34,7 @@
 ## Color
 
 - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
+- [Color Hunt](http://colorhunt.co/) - "Color Hunt is an open collection of beautiful color palettes founded on August 2015 by Gal Shir."
 - [Color Oracle](http://colororacle.org/)
 - [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)
 - [Colour Contrast Check](https://snook.ca/technical/colour_contrast/colour.html#fg=CFFF33,bg=333333)
