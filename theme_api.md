@@ -23,6 +23,7 @@ Item                      | Description
 `su.page.breadcrumbs`     |
 `su.page.children`        | Get a page's children
 `su.page.children(id)`    | Get the children of a specific page. Inspect the table row in the admin page list to get the id.
+`su.page.content`         | Allows for things like `{{ child.description ?: child.content|striptags|pretty_truncate(200) }}`
 `su.page.description`     |
 `su.page.featuredImage`   | `.fit(x,y)`, `.fill(x,y)`
 `su.page.navigationLabel` |
