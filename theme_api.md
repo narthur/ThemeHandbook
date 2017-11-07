@@ -23,14 +23,18 @@ Item                                        | Description
 ## su.page
 
 Item                      | Description
---------------------------|-------------------------------
+--------------------------|-------------------------------         
+`su.page("/url")`         | Get page by path
 `su.page.authors`         |
 `su.page.breadcrumbs`     |
-`su.page.children`        |
+`su.page.children`        | Get a page's children
+`su.page.children(id)`    | Get the children of a specific page. Inspect the table row in the admin page list to get the id.
+`su.page.content`         | Allows for things like `{{ child.description ?: child.content\|striptags\|pretty_truncate(200) }}`
 `su.page.description`     |
-`su.page.featuredImage`   | `.fit(x,y)`, `.fill(x,y)`
+`su.page.featuredImage`   | `.fit(x,y)`, `.fill(x,y)`, `.ratio(x,y)`
 `su.page.navigationLabel` |
 `su.page.parent`          | Parent of current page
+`su.page.posts`           | Get the posts associated with a blog page. Posts have the same content as pages (title, etc).
 `su.page.publishedAt`     | To format in Twig: {% raw %}`{{ su.page.publishedAt|date( "F j, Y" ) }}`{% endraw %}
 `su.page.target`          |
 `su.page.thumbnail`       |
@@ -45,6 +49,7 @@ Item                    | Description
 ------------------------|-------------
 `su.request.path`       |
 `su.request.protocol`   |
+`su.request.query`      | Allows access to POST and GET data
 `su.request.serverName` |
 `su.request.url`        |
 
@@ -55,7 +60,7 @@ Item                 | Description
 `su.site.address`    |
 `su.site.city`       |
 `su.site.country`    |
-`su.site.logo`       | `.fit(x,y)`, `.fill(x,y)`
+`su.site.logo`       | `.fit(x,y)`, `.fill(x,y)`, `.ratio(x,y)`
 `su.site.name`       | Website name
 `su.site.navigation` | `item.name`, `item.url`, `item.target`, `item.current`, `item.hasParent`, `item.hasChildren`
 `su.site.phone`      |
