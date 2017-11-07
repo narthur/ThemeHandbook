@@ -1,4 +1,7 @@
-# External Resources
+---
+title: External Resources
+permalink: /external-resources/
+---
 
 ## Accessibility
 

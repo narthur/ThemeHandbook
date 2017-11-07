@@ -1,4 +1,9 @@
-# Theme API
+---
+title: Theme API
+permalink: /theme-api/
+---
+
+## General
 
 Item                   | Description
 -----------------------|--------------
@@ -7,14 +12,14 @@ Item                   | Description
 `su.footer`            |
 `su.misc.privatelabel` | Retrieve site's private label
 
-## `su.editable`
+## su.editable
 
 Item                                        | Description
 --------------------------------------------|--------------------------------------------------
 `su.editable.region( (string) identifier )` | Allows inline editing of a custom content region
 `su.editable.title`                         | Allows inline editing of page title
 
-## `su.page`
+## su.page
 
 Item                      | Description
 --------------------------|-------------------------------         
@@ -23,21 +28,21 @@ Item                      | Description
 `su.page.breadcrumbs`     |
 `su.page.children`        | Get a page's children
 `su.page.children(id)`    | Get the children of a specific page. Inspect the table row in the admin page list to get the id.
-`su.page.content`         | Allows for things like `{{ child.description ?: child.content\|striptags\|pretty_truncate(200) }}`
+`su.page.content`         | Allows for things like {% raw %}`{{ child.description ?: child.content\|striptags\|pretty_truncate(200) }}`{% endraw %}
 `su.page.description`     |
 `su.page.featuredImage`   | `.fit(x,y)`, `.fill(x,y)`, `.ratio(x,y)`
 `su.page.navigationLabel` |
 `su.page.parent`          | Parent of current page
 `su.page.posts`           | Get the posts associated with a blog page. Posts have the same content as pages (title, etc).
-`su.page.publishedAt`     | To format in Twig: `{{ su.page.publishedAt\|date( "F j, Y" ) }}`
+`su.page.publishedAt`     | To format in Twig: {% raw %}`{{ su.page.publishedAt|date( "F j, Y" ) }}`{% endraw %}
 `su.page.target`          |
 `su.page.thumbnail`       |
 `su.page.title`           | Does not allow inline editing
 `su.page.topParent`       | Top parent of current page
-`su.page.updatedAt`       | To format in Twig: `{{ su.page.updatedAt\|date( "F j, Y" ) }}`
+`su.page.updatedAt`       | To format in Twig: {% raw %}`{{ su.page.updatedAt|date( "F j, Y" ) }}`{% endraw %}
 `su.page.url`             |
 
-## `su.request`
+## su.request
 
 Item                    | Description
 ------------------------|-------------
@@ -47,7 +52,7 @@ Item                    | Description
 `su.request.serverName` |
 `su.request.url`        |
 
-## `su.site`
+## su.site
 
 Item                 | Description
 ---------------------|--------------
@@ -63,7 +68,7 @@ Item                 | Description
 `su.site.url`        | Website's primary URL
 `su.site.zip`        |
 
-## `su.theme`
+## su.theme
 
 Item                                     | Description
 -----------------------------------------|--------------------------------
@@ -72,7 +77,7 @@ Item                                     | Description
 `su.theme.css( (string) path )`          | Path in theme's `style/` folder
 `su.theme.js( (string) path )`           | Path in theme's `script/` folder
 
-## `su.user`
+## su.user
 
 Item                 | Description
 ---------------------|--------------
