@@ -1,5 +1,5 @@
 ---
-title: Theme API
+title: Twig API
 permalink: /theme-api/
 ---
 
