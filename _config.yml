@@ -24,9 +24,21 @@ github_username:  SimpleUpdates
 
 # Build settings
 markdown: kramdown
-theme: minima
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+theme: jekyll-theme-primer
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+
+github:
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/SimpleUpdates/ThemeHandbook"

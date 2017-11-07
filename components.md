@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Components
 permalink: /components/
 ---
@@ -41,7 +40,7 @@ component's Twig partial, Less file, and base CSS classname.
 All component Twig partials are placed in the theme's `partial/` folder. All component Less files are placed in the theme's
 `style/` folder, and included at the end of `global.less`, grouped by layer and sorted alphabetically, within `.su_bootstrap_safe`, if the theme uses it.
 
-```Less
+```css
 // Variable declarations ...
 
 .su_bootstrap_safe

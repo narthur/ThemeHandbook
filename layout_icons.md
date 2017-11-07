@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Layout Icons
 permalink: /layout-icons/
 ---

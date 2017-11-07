@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Manual Testing
 permalink: /manual-testing/
 ---

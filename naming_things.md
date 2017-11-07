@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Naming Things
 permalink: /naming-things/
 ---

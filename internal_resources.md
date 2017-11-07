@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Internal Resources
 permalink: /internal-resources/
 ---

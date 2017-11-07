@@ -2,17 +2,6 @@
 
 `bundle exec jekyll serve`
 
-## Index
-
-- [components.md](components.md)
-- [deploy_workflow.md](deploy_workflow.md)
-- [external_resources.md](external_resources.md)
-- [internal_resources.md](internal_resources.md)
-- [layout_icons.md](layout_icons.md)
-- [manual_testing.md](manual_testing.md)
-- [naming_things.md](naming_things.md)
-- [theme_api.md](theme_api.md)
-
 ## Themes
 
 Name             | Pull Requests           | Issues            | Branches           | production...2016

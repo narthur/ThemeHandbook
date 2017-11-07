@@ -1,5 +1,4 @@
 ---
-layout: page
 title: External Resources
 permalink: /external-resources/
 ---
