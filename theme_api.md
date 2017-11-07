@@ -25,7 +25,7 @@ Item                      | Description
 `su.page.children(id)`    | Get the children of a specific page. Inspect the table row in the admin page list to get the id.
 `su.page.content`         | Allows for things like `{{ child.description ?: child.content\|striptags\|pretty_truncate(200) }}`
 `su.page.description`     |
-`su.page.featuredImage`   | `.fit(x,y)`, `.fill(x,y)`
+`su.page.featuredImage`   | `.fit(x,y)`, `.fill(x,y)`, `.ratio(x,y)`
 `su.page.navigationLabel` |
 `su.page.parent`          | Parent of current page
 `su.page.posts`           | Get the posts associated with a blog page. Posts have the same content as pages (title, etc).
@@ -54,7 +54,7 @@ Item                 | Description
 `su.site.address`    |
 `su.site.city`       |
 `su.site.country`    |
-`su.site.logo`       | `.fit(x,y)`, `.fill(x,y)`
+`su.site.logo`       | `.fit(x,y)`, `.fill(x,y)`, `.ratio(x,y)`
 `su.site.name`       | Website name
 `su.site.navigation` | `item.name`, `item.url`, `item.target`, `item.current`, `item.hasParent`, `item.hasChildren`
 `su.site.phone`      |
