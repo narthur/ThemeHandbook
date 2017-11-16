@@ -14,7 +14,7 @@ This document is for the purpose of outlining best practices when modifying a th
 ## Best Practices
 
 - As much as possible, keep all customizations in `custom.less`. Even customizations which, on their face, require editing Twig
-  files can often be done entire, or almost entirely, with only CSS overrides in `custom.less`.
+  files can often be done entirely, or almost entirely, with only CSS overrides in `custom.less`.
 - Avoid editing other `.less` files even more than you avoid editing `.twig` files. `.less` files other than `custom.less` are
   highly likely to create merge conflicts.
 - Keep a list of customizations made as an aid to future merges.
