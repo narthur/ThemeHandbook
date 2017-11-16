@@ -91,7 +91,7 @@ permalink: /external-resources/
 - [Good Web Design](http://www.goodweb.design/) - "The best landing pages, organized by section"
 - [Little Big Details](http://littlebigdetails.com/)
 - [Mobile Patterns](http://www.mobile-patterns.com/)
-- [Pattern Tap](http://zurb.com/patterntap)
+- [Pattern Tap](http://patterntap.com/patterntap)
 - [pttrns](https://pttrns.com/)
 
 ## Design Thinking
@@ -112,7 +112,7 @@ permalink: /external-resources/
 - [Good Web Design](http://www.goodweb.design/) - "The best landing pages, organized by section"
 - [httpster](https://httpster.net)
 - [One Page Love](https://onepagelove.com/)
-- [Pattern Tap](http://zurb.com/patterntap)
+- [Pattern Tap](http://patterntap.com/patterntap)
 - [Pixels](https://klart.co/pixels)
 - [Really Good Emails](http://reallygoodemails.com/)
 - [site inspire](https://www.siteinspire.com/)
