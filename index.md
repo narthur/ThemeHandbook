@@ -3,4 +3,5 @@
 - [Manual Testing](manual_testing.md)
 - [Naming Things](naming_things.md)
 - [Resources](external_resources.md)
+- [Theme Customization](theme_customization.md)
 - [Twig API](theme_api.md)
