@@ -28,7 +28,7 @@ Item                                                                   | Descrip
 `su.collection( "collectionId" ).number(2, ">").find()`                | Filter using operators: `=`, `!=`, `<>`, `>`, `<`, `>=`, `<=`
 `su.collection( "collectionId" ).sort( (string) fieldId ).find()`      | Sort by specified field
 `su.collection( "collectionId" ).sort( "state", "desc" ).find()`       | Sort and specify sort direction
-`su.collection( "collectionId" ).sort( "state.last", "desc" ).find()`  | Sort by sub field
+`su.collection( "collectionId" ).sort( "name.last", "desc" ).find()`  | Sort by sub field
 `su.collection( "collectionId" ).randomize.find()`                     | Sort randomly
 `su.collection( "collectionId" ).state("MT").first()`                  | Fetch only first result
 `su.collection( "collectionId" ).state("MT").count()`                  | Fetch result count
