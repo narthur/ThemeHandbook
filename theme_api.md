@@ -15,6 +15,27 @@ Item                   | Description
 `.fill(x,y)`           | Crops image to fit the given dimensions. Does not crop if the image is already smaller than the given dimensions.
 `.ratio(x,y)`          | Always crops image to match the ratio of the given dimensions, regardless of image's resolution.
 
+## su.collection
+
+Item                                                                   | Description
+-----------------------------------------------------------------------|-----------------------------------------
+`su.collection( (string) collectionId )`                               | Fetch collection
+`su.collection( "collectionId" ).find()`                               | Fetch items out of collection
+`su.collection( "collectionId" ).state("MT").find()`                   | Filter where `state` field value is "MT"
+`su.collection( "collectionId" ).state("M%").find()`                   | Filter where `state` field value starts with "M"
+`su.collection( "collectionId" ).state("M%").which("Two").find()`      | Filters are chainable
+`su.collection( "collectionId" ).state("M%").or().which("Two").find()` | Filter for this *or* that
+`su.collection( "collectionId" ).number(2, ">").find()`                | Filter using operators: `=`, `!=`, `<>`, `>`, `<`, `>=`, `<=`
+`su.collection( "collectionId" ).sort( (string) fieldId ).find()`      | Sort by specified field
+`su.collection( "collectionId" ).sort( "state", "desc" ).find()`       | Sort and specify sort direction
+`su.collection( "collectionId" ).sort( "state.last", "desc" ).find()`  | Sort by sub field
+`su.collection( "collectionId" ).randomize.find()`                     | Sort randomly
+`su.collection( "collectionId" ).state("MT").first()`                  | Fetch only first result
+`su.collection( "collectionId" ).state("MT").count()`                  | Fetch result count
+`su.collection( "collectionId" ).state("MT").limit(2).find()`          | Fetch only two results
+`su.collection( "collectionId" ).state("MT").offset(2).find()`         | Fetch third result and onward
+
+
 ## su.editable
 
 Item                                        | Description
