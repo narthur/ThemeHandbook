@@ -108,3 +108,8 @@ Item                 | Description
 `su.user.first_name` |
 `su.user.is_admin`   | Boolean
 `su.user.last_name`  |
+
+## Related reading
+
+- [Twig documentation](https://twig.symfony.com/doc/2.x/)
+- [Theme Customization](theme_customization.md)
