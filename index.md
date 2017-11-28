@@ -2,5 +2,6 @@
 - [Layout Icons](layout_icons.md)
 - [Manual Testing](manual_testing.md)
 - [Naming Things](naming_things.md)
+- [Pattern Guide](pattern_guide.md)
 - [Resources](external_resources.md)
 - [Theme API](theme_api.md)
