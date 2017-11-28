@@ -4,4 +4,5 @@
 - [Naming Things](naming_things.md)
 - [Pattern Guide](pattern_guide.md)
 - [Resources](external_resources.md)
-- [Theme API](theme_api.md)
+- [Theme Customization](theme_customization.md)
+- [Twig API](theme_api.md)
