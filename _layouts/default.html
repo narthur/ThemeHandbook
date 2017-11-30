@@ -9,10 +9,6 @@
 </head>
 <body>
 <div class="container-xl px-3 my-5 markdown-body">
-	{% if site.title and site.title != page.title %}
-		<h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a>{% if page.title %} — {{ page.title }}{% endif %}</h1>
-	{% endif %}
-	
 	<ul class="float-sm-right bg-gray pr-2 pt-2 pb-2 ml-sm-2 border border-black-fade">
 		<li class="{% if '/' == page.url %}text-bold{% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
 		{% for link in site.pages %}
@@ -21,6 +17,10 @@
 			{% endif %}
 		{% endfor %}
 	</ul>
+	
+	{% if site.title and site.title != page.title %}
+		<h1 class="mt-0"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a>{% if page.title %} — {{ page.title }}{% endif %}</h1>
+	{% endif %}
 	
 	{{ content }}
 	
