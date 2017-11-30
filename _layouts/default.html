@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	{% seo %}
+	<link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
+</head>
+<body>
+<div class="container-xl px-3 my-5 markdown-body">
+	{% if site.title and site.title != page.title %}
+		<h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a>{% if page.title %} — {{ page.title }}{% endif %}</h1>
+	{% endif %}
+	
+	<ul class="float-sm-right bg-gray pr-2 pt-2 pb-2 ml-sm-2 border border-black-fade">
+		<li class="{% if '/' == page.url %}text-bold{% endif %}"><a href="/">Home</a></li>
+		{% for link in site.pages %}
+			{% if link.title %}
+				<li class="{% if link.url == page.url %}text-bold{% endif %}"><a href="{{ link.url }}">{{ link.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+	
+	{{ content }}
+	
+	{% if site.github.private != true and site.github.license %}
+		<div class="footer border-top border-gray-light mt-5 pt-3 text-gray">
+			This site is open source. {% github_edit_link "Improve this page" %}.
+			<a href="#top" class="float-right">Scroll to top</a>
+		</div>
+	{% endif %}
+</div>
+<script src="{{ "assets/javascript/anchor-js/anchor.min.js" | relative_url }}"></script>
+<script>anchors.add();</script>
+</body>
+</html>

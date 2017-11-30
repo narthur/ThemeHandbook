@@ -1,9 +1,1 @@
-- [Components](components.md)
-- [Layout Icons](layout_icons.md)
-- [Less API](less_api.md)
-- [Manual Testing](manual_testing.md)
-- [Naming Things](naming_things.md)
-- [Pattern Guide](pattern_guide.md)
-- [Resources](external_resources.md)
-- [Theme Customization](theme_customization.md)
-- [Twig API](twig_api.md)
+Here you'll find documentation for building and customizing SUFramework themes.
