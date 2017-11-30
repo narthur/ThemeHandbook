@@ -19,7 +19,7 @@
 	</ul>
 	
 	{% if site.title and site.title != page.title %}
-		<h1 class="mt-0"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a>{% if page.title %} — {{ page.title }}{% endif %}</h1>
+		<h1 class="mt-0"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a>{% if page.title %} <span class="h3 pl-2 text-gray-light text-normal">{{ page.title }}{% endif %}</span></h1>
 	{% endif %}
 	
 	{{ content }}
