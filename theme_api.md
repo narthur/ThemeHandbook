@@ -1,6 +1,6 @@
 ---
 title: Twig API
-permalink: /theme-api/
+permalink: /twig-api/
 ---
 
 ## General
