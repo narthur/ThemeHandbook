@@ -5,6 +5,7 @@ permalink: /less-api/
 
 Item                                           | Description
 -----------------------------------------------|-------------------------
+`@config-themeCustomizerVariableName`          | Access theme customizer variable values. Ex.: `@config-backgroundColor`
 `@su-assetpath`                                | Theme asset folder path. Ex.: `background:url('@{su-assetpath}/image.png');`
 `.theme-image-fit(@which; @width; @height;)`   | Path to image resized to fit within provided dimensions.
 `.theme-image-fill(@which; @width; @height;)`  | Path to image cropped to fill provided dimensions. Won't crop small images.
