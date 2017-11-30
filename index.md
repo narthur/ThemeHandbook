@@ -5,4 +5,4 @@
 - [Pattern Guide](pattern_guide.md)
 - [Resources](external_resources.md)
 - [Theme Customization](theme_customization.md)
-- [Twig API](theme_api.md)
+- [Twig API](twig_api.md)
