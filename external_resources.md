@@ -22,6 +22,7 @@ permalink: /external-resources/
 - [Inclusive Components](https://inclusive-components.design/) - "A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece."
 - [Inclusive Design Principles](http://inclusivedesignprinciples.org/)
 - [Microsoft Inclusive Design Principles](https://www.microsoft.com/en-us/design/inclusive)
+- [pa11y](https://github.com/pa11y/pa11y)
 - [Random A11y Color Palettes](https://randoma11y.com/)
 - [tota11y](http://khan.github.io/tota11y/)
 - [Udacity Web Accessibility course, by Google, free](https://www.udacity.com/course/web-accessibility--ud891)
@@ -120,6 +121,7 @@ permalink: /external-resources/
 ## HTML
 
 - [Twig documentation](https://twig.sensiolabs.org/doc/2.x/)
+- [W3C Markup Validation Service](https://validator.w3.org/)
 
 ## Inspiration
 
@@ -184,9 +186,14 @@ permalink: /external-resources/
 
 ## Tools
 
+- [Chrome device mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports)
+- [Chrome full-page screenshots](https://developers.google.com/web/updates/2017/04/devtools-release-notes#screenshots)
+- [Chrome network panel and emulation](https://developers.google.com/web/tools/chrome-devtools/network-performance/)
 - [Diffchecker](https://www.diffchecker.com/)
 - [Emmet Re:view](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
+- [Recordit](http://recordit.co/)
 - [Skitch](https://evernote.com/products/skitch) - "Get your point across with fewer words using annotation, shapes and sketches, so that your ideas become reality faster."
+- [Snaggy](https://snag.gy/)
 
 ## Usability
 
