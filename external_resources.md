@@ -6,7 +6,7 @@ permalink: /external-resources/
 ## Accessibility
 
 - [18F Accessibility Guide](https://accessibility.18f.gov/)
-- [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/)
+- [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/) - "This checklist helps developers identify potential accessibility issues affecting their websites or applications."
 - [A11Y Style Guide](http://a11y-style-guide.com/style-guide/)
 - [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y)
 - [Color Oracle](http://colororacle.org/)
@@ -25,7 +25,7 @@ permalink: /external-resources/
 - [Random A11y Color Palettes](https://randoma11y.com/)
 - [tota11y](http://khan.github.io/tota11y/)
 - [Udacity Web Accessibility course, by Google, free](https://www.udacity.com/course/web-accessibility--ud891)
-- [Vox Media Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/)
+- [Vox Media Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/) - "Making work accessible creates a better experience across the board. Use this checklist to help build accessibility into your process no matter your role or stage in a project."
 - [WebAIM](http://webaim.org/resources/designers/)
 - [WebAIM Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
 - [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
@@ -36,10 +36,10 @@ permalink: /external-resources/
 
 ## Checklists
 
-- [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/)
+- [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/) - "This checklist helps developers identify potential accessibility issues affecting their websites or applications."
 - [The Front-End Checklist
 ](https://frontendchecklist.io/) - "The Front-End Checklist Application is perfect for modern websites and meticulous developers!"
-- [Vox Media Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/)
+- [Vox Media Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/) - "Making work accessible creates a better experience across the board. Use this checklist to help build accessibility into your process no matter your role or stage in a project."
 
 ## Color
 
